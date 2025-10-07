@@ -59,7 +59,7 @@ module.exports = {
 
     msg += `💡 Usage   : ${prefix}help [command]\n`;
     msg += `🧩 Example : ${prefix}help ai\n`;
-    msg += `\n✨ Crafted with ❤️ by SaGor`;
+    msg += `\n✨ Crafted with ❤️ by prince morshed`;
 
     api.sendMessage(msg, event.threadID, event.messageID);
   }
